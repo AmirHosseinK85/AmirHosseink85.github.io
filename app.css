@@ -1,13 +1,13 @@
 @font-face {
     font-family: "Vazir light";
-    src: url("../Fonts/ttf/Vazirmatn-Light.ttf") format("truetype"),
-        url("../Fonts/Vazirmatn-Light.woff2") format("woff2");
+    src: url("../fonts/ttf/Vazirmatn-Light.ttf") format("truetype"),
+        url("../fonts/Vazirmatn-Light.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Vazir Bold";
-    src: url("../Fonts/ttf/Vazirmatn-Bold.ttf") format("truetype"),
-        url("../Fonts/Vazirmatn-Bold.woff2") format("woff2");
+    src: url("../fonts/ttf/Vazirmatn-Bold.ttf") format("truetype"),
+        url("../fonts/Vazirmatn-Bold.woff2") format("woff2");
 }
 
 * {

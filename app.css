@@ -528,7 +528,7 @@ h2 {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 970px) {
     .header_img {
         background-image: none;
         

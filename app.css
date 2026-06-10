@@ -489,6 +489,12 @@ h2 {
     margin-top: 4rem;
 }
 
+.github a {
+    text-decoration-line: none;
+    color: white;
+    display: block;
+}
+
 .size-6 {
     width: 4rem;
     height: 4rem;
